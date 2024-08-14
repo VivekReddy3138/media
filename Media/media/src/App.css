@@ -1,0 +1,39 @@
+
+img{
+  width: 300px;
+  height: 400px;
+}
+video{
+  width: 280px;
+  height: 400px;
+}
+
+.App{
+background-color: aqua;
+margin:15px;
+}
+
+
+.devara{
+  border: 3px solid black;
+  display:inline-block;
+  width: 380px;
+  height: 900px;
+  text-align: center;
+  
+}
+.devara1{
+  border: 3px solid black;
+  display:inline-block;
+  width: 380px;
+  height: 900px;
+  text-align: center;
+}
+
+.kalki{
+  border: 3px solid black;
+  display:inline-block;
+  width: 380px;
+  height: 900px;
+  text-align: center;
+}
